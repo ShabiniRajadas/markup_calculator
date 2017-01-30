@@ -1,2 +1,3 @@
-def MarkupCalculator
+module MarkupCalculator
+
 end
