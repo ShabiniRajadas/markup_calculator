@@ -1,1 +1,18 @@
-README.rdoc
+== Introduction
+
+The Markup Calculator is used to calculate the total amount for a Job, based on the initial base price, the number of persons involved in the job and the type of material.
+
+== Dependencies
+
+* Ruby(version - 2.3.0)
+* RSpec(version - 3.5.0)
+
+== Steps
+
+* Clone the repository.
+* bundle install
+* To check the test cases, run 'rspec' from the terminal
+
+== Scenarios in Specs
+
+The examples given in the coding exercise is used as test samples in the rspec.
